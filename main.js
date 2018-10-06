@@ -15,3 +15,8 @@ main.appendChild(header);
 
 var unorderedList = document.createElement('ul');
 main.appendChild(unorderedList);
+
+//step 6
+
+var items = document.createElement('li');
+unorderedList.appendChild(items);
