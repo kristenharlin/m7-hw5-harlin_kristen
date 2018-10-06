@@ -20,3 +20,8 @@ main.appendChild(unorderedList);
 
 var items = document.createElement('li');
 unorderedList.appendChild(items);
+
+//step 7
+
+var headerText = document.createTextNode('This is the header text!');
+var listItemText = document.createTextNode('This is the list item');
