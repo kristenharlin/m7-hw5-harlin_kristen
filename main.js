@@ -25,3 +25,8 @@ unorderedList.appendChild(items);
 
 var headerText = document.createTextNode('This is the header text!');
 var listItemText = document.createTextNode('This is the list item');
+
+// step 8
+
+header.appendChild(headerText);
+items.appendChild(listItemText);
