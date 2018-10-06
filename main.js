@@ -10,3 +10,8 @@ pageBody.insertBefore(main, scriptTag);
 
 var header = document.createElement('h1');
 main.appendChild(header);
+
+// step 5
+
+var unorderedList = document.createElement('ul');
+main.appendChild(unorderedList);
