@@ -46,3 +46,7 @@ var link = document.createElement('a');
 // step 15
 
 var linkListItem = document.createElement('li');
+
+// step 16
+
+linkListItem.appendChild(link);
