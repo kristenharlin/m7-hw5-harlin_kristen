@@ -62,3 +62,7 @@ var linkText = document.createTextNode('This is the my link');
 // step 19
 
 link.appendChild(linkText);
+
+//step 20
+
+link.href = 'https://www.google.com';
