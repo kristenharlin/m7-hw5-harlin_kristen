@@ -34,3 +34,7 @@ items.appendChild(listItemText);
 // step 11
 
 header.classList.add('blue');
+
+// step 13
+
+main.classList.add('text-center');
