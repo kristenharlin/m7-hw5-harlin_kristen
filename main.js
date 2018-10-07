@@ -54,3 +54,7 @@ linkListItem.appendChild(link);
 // step 17
 
 unorderedList.appendChild(linkListItem);
+
+// step 18
+
+var linkText = document.createTextNode('This is the my link');
