@@ -50,3 +50,7 @@ var linkListItem = document.createElement('li');
 // step 16
 
 linkListItem.appendChild(link);
+
+// step 17
+
+unorderedList.appendChild(linkListItem);
