@@ -66,3 +66,7 @@ link.appendChild(linkText);
 //step 20
 
 link.href = 'https://www.google.com';
+
+//step 21
+
+var notLinkListItem = linkListItem.previousElementSibling;
